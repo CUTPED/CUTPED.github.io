@@ -1,3 +1,11 @@
 # CU TPED
-<img src="TPED Logo Large.jpeg" alt="CU TPED Logo">
+<style>
+  img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; /* Optional: set a width smaller than the container */
+  }
+</style>
+<img class="center" src="TPED Logo Large.jpeg" alt="Description">
 CU TPED's Website
