@@ -1,2 +1,3 @@
-# CUTPED.github.io
+# CU TPED
+
 CU TPED's Website
