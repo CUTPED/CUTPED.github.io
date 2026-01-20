@@ -1,3 +1,4 @@
+<html>
 <head>
     <title>Auto Refresh Page</title>
     <meta http-equiv="refresh" content="10">
@@ -7,4 +8,5 @@
 
   <p class="imageflexcontent">CU TPED </p>
 </div>
+</html>
 
